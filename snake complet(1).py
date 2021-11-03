@@ -3,7 +3,7 @@ Jeu : Snake
 @author : TUX
 Le célébre jeu Snake légendaire que tout le monde connait
 """
-import pygame, sys, time, random, clock
+import pygame, sys, time, random
 
 # Vérification s'il existe une erreur ou pas
 verif_erreurs = pygame.init()
